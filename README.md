@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdtZDdhcHdja2lzbHppZHJkaHhqMXUzamR1ajg1MTEyb3B1dDV4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdtZDdhcHdja2lzbHppZHJkaHhqMXUzamR1ajg1MTEyb3B1dDV4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="400"/>
 </div>
 
 <div id="badges" align="center">
@@ -7,8 +7,7 @@
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
 </div>
-
-### Привет! 👋
+<h1 align="center">Привет! 👋</h1>
 
 <!--
 **7Alina77/7Alina77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
